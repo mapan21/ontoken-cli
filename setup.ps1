@@ -1,7 +1,7 @@
 #Requires -Version 5.1
-# CANONICAL SOURCE — edit this file, then:
-#   Copy-Item cli/setup.ps1 apps/web-marketing/public/cli/setup.ps1
-# (apps/web-marketing/public/cli/ is the served copy at https://ontoken.id/cli/setup.ps1)
+# CANONICAL SOURCE — edit this file, then mirror ke repo publik:
+#   github.com/mapan21/ontoken-cli (branch main) — update CHECKSUMS.txt di sana saat file ini berubah.
+# (ontoken.id/cli/setup.ps1 kini 308 → raw.githubusercontent.com/mapan21/ontoken-cli/main/setup.ps1)
 #
 # ON Token — agent tool setup wizard (Windows / PowerShell).
 # Points your AI coding agent at ON Token's OpenAI-compatible endpoint

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-# CANONICAL SOURCE — edit this file, then: cp cli/setup.sh apps/web-marketing/public/cli/setup.sh
-# (apps/web-marketing/public/cli/ is the served copy at https://ontoken.id/cli/setup.sh)
+# CANONICAL SOURCE — edit this file, then mirror ke repo publik:
+#   github.com/mapan21/ontoken-cli (branch main) — update CHECKSUMS.txt di sana saat file ini berubah.
+# (ontoken.id/cli/setup.sh kini 308 → raw.githubusercontent.com/mapan21/ontoken-cli/main/setup.sh)
 #
 # ON Token — agent tool setup wizard (macOS / Linux).
 # Points your AI coding agent at ON Token's OpenAI-compatible endpoint
